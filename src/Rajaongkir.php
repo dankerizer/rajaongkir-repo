@@ -135,6 +135,8 @@ class Rajaongkir
             'ninja-express',
             'idl',
             'rex',
+            'ide',
+            'sentral,
         ],
     ];
 
